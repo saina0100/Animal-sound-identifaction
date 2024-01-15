@@ -1,0 +1,42 @@
+body
+{
+    font-family: 'Dancing Script', cursive;
+    background: rgb(255, 207, 215);
+
+}
+
+.header_div
+{
+    background: whitesmoke;
+    color: rgb(31, 31, 247);
+
+}
+.header_div p{
+    font-family:Arial, Helvetica, sans-serif;
+    color:rgb(72, 162, 247);
+    letter-spacing: 1px;
+    font-size: bold;
+    font-weight: 3px;
+
+}
+.main_div button{
+    font-family:Arial, Helvetica, sans-serif;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing:3px;
+
+}
+
+.copy_right_footer{
+    position: fixed;
+    color: black;
+    bottom:0;
+    width: 100%;
+    font-size: 18px;
+    background-color:azure;
+    line-height: 3;
+    text-align:center;
+    text-shadow: 5px 5px 5px rgb(161, 159, 159);
+
+}
